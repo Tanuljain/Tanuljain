@@ -44,14 +44,12 @@
 
 </details>
 
-<details> 
-  <summary>:zap: Github Stats</summary>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tanuljain's Github Stats" src="https://github-readme-stats.Tanuljain.vercel.app/api?username=Tanuljain&show_icons=true&hide_border=true" />
-  
+  <img align="left" alt="Tanuljain's github stats" src="https://https://github-readme-stats.vercel.app/api?username=Tanuljain&show_icons=true&hide_border=true&theme=dark" />
+
 </details>
-
-[![Tanuljain's github stats](https://github-readme-stats.vercel.app/api?username=Tanuljain)](https://github.com/Tanuljain/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/tanuljain/
