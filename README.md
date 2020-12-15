@@ -48,6 +48,8 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Tanuljain's Github Stats" src="https://github-readme-stats.Tanuljain.vercel.app/api?username=Tanuljain&show_icons=true&hide_border=true" />
+  [![Tanuljain's github stats](https://github-readme-stats.vercel.app/api?username=Tanuljain)](https://github.com/Tanuljain/github-readme-stats)
+
 
 </details>
 
