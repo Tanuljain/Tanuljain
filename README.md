@@ -54,7 +54,7 @@
 <br />
 <br />
 
----
+<!-- --- -->
 
 <!-- ### 📺 Latest YouTube Videos -->
 
@@ -66,9 +66,9 @@
 - [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
 <!-- YOUTUBE:END -->
 
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) --> -->
+<!-- ➡️ [more videos...](https://youtube.com/codestackr) --> 
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 
@@ -82,7 +82,7 @@
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
----
+<!-- --- -->
 
 <!-- <details>
   <summary>:zap: Recent Github Activity</summary>
